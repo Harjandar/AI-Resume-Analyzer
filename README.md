@@ -28,6 +28,3 @@ This project develops a Machine Learning model to classify resumes into "Good Fi
 
 ## License
 MIT License
-
-## Contact
-For questions, contact Ghulam Muttaqa Shah at ghulammuttaqashah@gmail.com.
